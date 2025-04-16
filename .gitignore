@@ -3,6 +3,7 @@ env/
 venv/
 .venv
 .venv/
+.venv_tests/
 
 __pycache__/
 *.py[cod]
